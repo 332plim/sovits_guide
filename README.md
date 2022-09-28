@@ -7,6 +7,8 @@ hug在线体验：https://huggingface.co/spaces/innnky/nyaru-svc2.0
 
 新版引入f0（适合转换歌声）：https://github.com/innnky/so-vits-svc
 
+f0合成：https://github.com/IceKyrin/sovits_f0_infer
+
 新版引入midi（适合转换语音）：https://github.com/innnky/so-vits-svc/tree/dev
 
 一键colab：
