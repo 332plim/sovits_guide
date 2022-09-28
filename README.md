@@ -13,7 +13,7 @@ hug在线体验：https://huggingface.co/spaces/innnky/nyaru-svc2.0
 
 数据集制作：https://colab.research.google.com/drive/1avWZ_N5BsQcq45XkwQkDpmp912CLZS0n?usp=sharing
 
-一键训练：制作中
+一键训练：https://colab.research.google.com/drive/1DexYpwWIdD_RRqQ165l-YoWMzFAHIbPy#scrollTo=ltU2JXpxIh-K
 
 一键合成：制作中
 
