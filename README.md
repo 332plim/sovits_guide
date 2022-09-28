@@ -1,5 +1,9 @@
 # sovits_guide
-sovits各版本介绍及一键colab
+sovits各版本介绍及一键colab（在施工呢你们别急，git都是可以用的，colab再等等）
+
+b站视频：https://www.bilibili.com/video/BV1eV4y1N72x
+
+hug在线体验：https://huggingface.co/spaces/innnky/nyaru-svc2.0
 
 新版引入f0（适合转换歌声）：https://github.com/innnky/so-vits-svc
 
