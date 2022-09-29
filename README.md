@@ -26,11 +26,11 @@ github：https://github.com/innnky/so-vits-svc/tree/dev
 
 一键colab（三件套仅支持f0版，mini版提供数据集制作）：
 
-数据集制作：https://colab.research.google.com/drive/1avWZ_N5BsQcq45XkwQkDpmp912CLZS0n?usp=sharing
+数据集制作：https://colab.research.google.com/drive/1avWZ_N5BsQcq45XkwQkDpmp912CLZS0n
 
-一键训练：https://colab.research.google.com/drive/1DexYpwWIdD_RRqQ165l-YoWMzFAHIbPy#scrollTo=ltU2JXpxIh-K
+一键训练：https://colab.research.google.com/drive/1DexYpwWIdD_RRqQ165l-YoWMzFAHIbPy
 
-一键合成：https://colab.research.google.com/drive/1F3VpHCi9eridGw1F1hbqR7qhXGKuSCus#scrollTo=vjkgBV7j2cVJ
+一键合成：https://colab.research.google.com/drive/1F3VpHCi9eridGw1F1hbqR7qhXGKuSCus
 
 ************************************************************************************************************************
 
