@@ -20,7 +20,7 @@ hug在线体验：https://huggingface.co/spaces/xiaolang/sovits_midi_dev
 
 github：https://github.com/innnky/so-vits-svc/tree/dev
 
-本地合成git：暂无
+本地合成git：https://github.com/IceKyrin/sovits_midi_infer/tree/main
 
 ************************************************************************************************************************
 
