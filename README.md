@@ -36,6 +36,8 @@ github：https://github.com/innnky/so-vits-svc/tree/dev
 
 ************************************************************************************************************************
 
+免标注日语vits：https://github.com/AlexandaJerry/whisper-vits-japanese
+
 历史版本（已废弃）
 
 sovits1.0、hubert-vits、sovits猫雷版等
